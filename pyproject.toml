@@ -5,5 +5,18 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "grandalf>=0.8",
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "langchain>=1.4.0",
+    "langchain-core>=1.6.2",
+    "langchain-huggingface>=1.2.2",
+    "langchain-openrouter>=0.2.8",
     "langgraph>=1.2.11",
+    "numpy>=2.5.3",
+    "pandas>=3.0.5",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.3",
+    "torch>=2.14.0",
+    "transformers>=5.16.1",
 ]
